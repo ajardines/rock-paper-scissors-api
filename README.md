@@ -5,7 +5,7 @@
 For building and running the application you need:
 
 - [JDK 1.8 or higher](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-- [Maven 3 or higher](https://maven.apache.org)
+- [Maven 3](https://maven.apache.org)
 
 # How to run it locally
 1. [Download](https://codeload.github.com/ajardines/rock-paper-scissors-api/zip/refs/heads/master) or clone the [repository](https://github.com/ajardines/rock-paper-scissors-api) to your local machine:
